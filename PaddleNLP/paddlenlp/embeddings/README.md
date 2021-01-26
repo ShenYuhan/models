@@ -75,7 +75,7 @@ visualdl logdir ./visualize
 启动后打开浏览器即可看到可视化结果
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/28444161/105819449-2ce79c00-5ff3-11eb-978b-8567f86a93f4.png" width="60%"/>
+  <img src="https://user-images.githubusercontent.com/28444161/105819449-2ce79c00-5ff3-11eb-978b-8567f86a93f4.png" width="80%"/>
 </p>
 
 使用VisualDL除可视化embedding结果外，还可以对标量、图片、音频等进行可视化，有效提升训练调参效率。关于VisualDL更多功能和详细介绍，可参考[VisualDL使用文档](https://github.com/PaddlePaddle/VisualDL/tree/develop/docs)。
